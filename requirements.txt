@@ -1,0 +1,7 @@
+# Agentic Frameworks
+google-adk
+langchain
+crewai
+langchain-google-genai
+langgraph
+autogen
